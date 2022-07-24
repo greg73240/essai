@@ -229,8 +229,8 @@ aside
 #photonous img
 {
     border: 1px solid #181818;
-    max-height: 50%;
-    max-width: 50%;
+    max-height: 100%;
+    max-width: 100%;
     
 }
 
